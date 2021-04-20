@@ -1,0 +1,87 @@
+
+.heading {
+    font-weight: 700;
+    font-size: 28px;
+    text-align: center;
+    padding: 20px;
+}
+
+.listButton {
+    cursor: pointer;
+    color: #333;
+    padding: 5px 23px;
+    border-radius: 4px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border: 1px solid #333;
+    float: right;
+    margin-right: 20px;
+}
+
+.rowSet{
+    margin-bottom: 10px;
+    clear: both;
+    height: 50px;
+}
+
+.box{
+    width: 200px;
+    border: 1px solid #333;
+    height: 500px;
+    float: left;
+    margin: 0px 20px;
+    position: relative;
+}
+
+.cards {
+    border: 1px solid #333;
+    margin: 12px;
+}
+
+.btnAdj {
+    font-size: 14px;
+    text-align: center;
+}
+
+.titleBox{
+    float: left;
+    width: 170px;
+    font-size: 16px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.cardTitle{
+    float: left;
+    font-size: 14px;
+    font-weight: 700;
+    width: 154px;
+    text-align: center;
+}
+
+.cardBtnAdj{
+    font-size: 14px;
+    text-align: center;
+}
+
+.cardDesc {
+    margin: 0px 7px;
+    font-size: 13px;
+}
+
+.adjcircle {
+    width: 20px;
+    height: 20px;
+    border: 1px solid #333;
+    border-radius: 10px;
+    line-height: 15px;
+    text-align: center;
+}
+
+.boxSetup{
+    position: absolute;
+    margin-top: 450px;
+    margin-left: 83px;
+}
